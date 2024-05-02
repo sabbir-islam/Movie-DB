@@ -177,16 +177,20 @@ padding-left: 50px;
 .sub-btn{
   padding: 0.7rem 1.4rem;
   background: var(--main-color);
-  color: var(--bg-color);
   font-weight: 500;
   border-radius: 0.5rem;
   margin-top: 20px;
   margin-left: 880px;
   margin-bottom: 150px;
 }
+.sub-btn-text{
+  color: var(--bg-color);
+  font-weight: 500;
+  text-transform: uppercase;
+}
 .sub-btn:hover{
   background: var(--text-color);
-  border-color: #ccc;
+  border-color: var(--main-color);
 }
 .footer-d {
   position: relative;
