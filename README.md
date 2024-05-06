@@ -1,4 +1,4 @@
-# movieDB
+# Movies-DB
 
 Welcome to movieDB, your go-to movie database website where you can explore new movies, upcoming releases, fan favorites, and even subscribe to our newsletter for the latest updates!
 
