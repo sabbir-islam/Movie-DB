@@ -12,9 +12,7 @@ Welcome to movieDB, your go-to movie database website where you can explore new 
 ## Technologies Used
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: [Specify your backend language/framework here]
-- Database: [Specify your database system here, if applicable]
-- Newsletter Service: [Specify the service you're using for sending newsletters, if applicable]
+
 
 ## Installation
 
